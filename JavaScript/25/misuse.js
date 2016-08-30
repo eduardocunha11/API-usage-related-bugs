@@ -5,7 +5,7 @@ var Bert = require('./bert').Bert,
 var puts = require('sys').puts
 var term = [
     false, 2, 
-    new BertBinary([132,177,33,86].map(function(a){return String.fromCharCode(a)}).join(')),
+    new BertBinary([132,177,33,86].map(function(a){return String.fromCharCode(a)}).join('')),
     new BertTuple(
         [[
             new BertTuple([new BertBinary('name'), 
