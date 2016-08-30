@@ -1,0 +1,3 @@
+api: JavaScript Date Object
+method-name: Date.getDay()
+stackoverflow-url: http://stackoverflow.com/questions/834757/why-does-getday-return-incorrect-values-javascript
