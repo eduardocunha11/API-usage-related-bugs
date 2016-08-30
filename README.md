@@ -6,10 +6,10 @@ Please feel free to contact Eduardo Campos (Project Lead), if you have any quest
 
 # Contributors
 
-Eduardo Campos - eccampos@ufu.br
-Martin Monperrus - martin.monperrus@univ-lille1.fr
-Marcelo Maia - marcelo.maia@ufu.br
+Eduardo Campos - eccampos@ufu.br <br>
+Martin Monperrus - martin.monperrus@univ-lille1.fr <br>
+Marcelo Maia - marcelo.maia@ufu.br <br>
 
 # Publication
 
-CAMPOS, E. C.; MONPERRUS, M. ; ALMEIDA MAIA, M. Searching Stack Overflow for API-usage-related Bug Fixes Using Snippet-based Queries. In: Proceedings of 26th Annual International Conference on Computer Science and Software Engineering (CASCON '16), Markham, Canada, IBM Corp., 2016. p. 1-10.
+<b>CAMPOS, E. C.; MONPERRUS, M. ; ALMEIDA MAIA, M </b>. <i>Searching Stack Overflow for API-usage-related Bug Fixes Using Snippet-based Queries</i>. In: Proceedings of 26th Annual International Conference on Computer Science and Software Engineering (CASCON '16), Markham, Canada, IBM Corp., 2016. p. 1-10.
