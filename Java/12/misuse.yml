@@ -1,0 +1,3 @@
+api: java.text.SimpleDateFormat
+method-name: parse
+stackoverflow-url: http://stackoverflow.com/questions/9230961/unexpected-output-while-converting-a-string-to-date-in-java
