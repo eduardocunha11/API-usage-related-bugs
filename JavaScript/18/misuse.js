@@ -1,6 +1,6 @@
 (function() {
   var getActiveElement = function(text) {
-    var element = ';
+    var element = '';
     if (text.length >= 0) {
       var regex = new RegExp('<([^!?][^s/>]*).*?>', 'g');
       var matches = [];
