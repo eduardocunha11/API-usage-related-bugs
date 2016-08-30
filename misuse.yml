@@ -1,0 +1,3 @@
+api: java.lang.Math
+method-name: pow
+stackoverflow-url: http://stackoverflow.com/questions/13896614/surprising-result-from-math-pow65-17-3233
