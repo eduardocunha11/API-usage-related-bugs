@@ -1,0 +1,3 @@
+api: java.math.BigInteger
+method-name: add
+stackoverflow-url: http://stackoverflow.com/questions/12175674/is-java-math-bigintegers-usage-wrong
