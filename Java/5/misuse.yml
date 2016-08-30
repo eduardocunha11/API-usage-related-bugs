@@ -1,0 +1,3 @@
+api: java.lang.Integer
+method-name: toBinaryString
+stackoverflow-url: http://stackoverflow.com/questions/11597244/why-the-result-of-integer-tobinarystring-for-short-type-argument-includes-32-bit
