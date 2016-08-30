@@ -1,0 +1,3 @@
+api: java.text.SimpleDateFormat
+method-name: format
+stackoverflow-url: http://stackoverflow.com/questions/14836004/java-date-giving-the-wrong-date
