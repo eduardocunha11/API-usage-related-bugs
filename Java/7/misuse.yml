@@ -1,0 +1,3 @@
+api: java.lang.Math
+method-name: pow
+stackoverflow-url: http://stackoverflow.com/questions/9956471/wrong-result-by-java-math-pow
