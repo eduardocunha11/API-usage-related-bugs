@@ -1,0 +1,3 @@
+api: java.lang.System
+method-name: out
+stackoverflow-url: http://stackoverflow.com/questions/14213778/unexpected-result-with-outputstream-in-java
