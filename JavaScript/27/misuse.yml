@@ -1,0 +1,3 @@
+description: JSON (JavaScript Object Notation) 
+method-name: JSON.parse
+stackoverflow-url: http://stackoverflow.com/questions/8524933/json-parse-unexpected-character-error
