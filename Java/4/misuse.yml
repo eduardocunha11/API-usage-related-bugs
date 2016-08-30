@@ -1,0 +1,3 @@
+api: java.math.BigDecimal
+method-name: setScale
+stackoverflow-url: http://stackoverflow.com/questions/10603336/bigdecimal-floor-rounding-goes-wrong
