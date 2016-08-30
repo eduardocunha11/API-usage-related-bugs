@@ -1,0 +1,3 @@
+api: java.util.IdentityHashMap
+method-name: put
+stackoverflow-url: http://stackoverflow.com/questions/12213877/is-identityhashmap-class-wrong
