@@ -1,0 +1,3 @@
+description: JavaScript String Object
+method-name: String.indexOf
+stackoverflow-url: http://stackoverflow.com/questions/18509996/get-index-of-empty-space-returns-wrong-value
