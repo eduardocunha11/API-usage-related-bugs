@@ -1,0 +1,3 @@
+description: JavaScript Date Object
+method-name: Date.parse
+stackoverflow-url: http://stackoverflow.com/questions/2587345/why-does-date-parse-give-incorrect-results
