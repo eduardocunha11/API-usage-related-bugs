@@ -1,0 +1,3 @@
+api: java.util.Date
+method-name: getTime
+stackoverflow-url: http://stackoverflow.com/questions/14102593/unexpected-output-with-iso-time-8601
