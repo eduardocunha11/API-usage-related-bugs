@@ -1,0 +1,3 @@
+api: java.lang.Math
+method-name: cos
+stackoverflow-url: http://stackoverflow.com/questions/12975924/math-cos-java-gives-wrong-result
