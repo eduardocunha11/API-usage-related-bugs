@@ -1,0 +1,3 @@
+description: JavaScript RegExp object  
+method-name: Regex.exec()
+stackoverflow-url: http://stackoverflow.com/questions/11477415/why-does-javascripts-regex-exec-not-always-return-the-same-value
